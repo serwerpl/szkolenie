@@ -1,0 +1,11 @@
+C:\Kod\Rozdzial01\bin\Debug\netcoreapp2.1\Rozdzial01.deps.json
+C:\Kod\Rozdzial01\bin\Debug\netcoreapp2.1\Rozdzial01.runtimeconfig.json
+C:\Kod\Rozdzial01\bin\Debug\netcoreapp2.1\Rozdzial01.runtimeconfig.dev.json
+C:\Kod\Rozdzial01\bin\Debug\netcoreapp2.1\Rozdzial01.dll
+C:\Kod\Rozdzial01\bin\Debug\netcoreapp2.1\Rozdzial01.pdb
+C:\Kod\Rozdzial01\obj\Debug\netcoreapp2.1\Rozdzial01.csprojAssemblyReference.cache
+C:\Kod\Rozdzial01\obj\Debug\netcoreapp2.1\Rozdzial01.csproj.CoreCompileInputs.cache
+C:\Kod\Rozdzial01\obj\Debug\netcoreapp2.1\Rozdzial01.AssemblyInfoInputs.cache
+C:\Kod\Rozdzial01\obj\Debug\netcoreapp2.1\Rozdzial01.AssemblyInfo.cs
+C:\Kod\Rozdzial01\obj\Debug\netcoreapp2.1\Rozdzial01.dll
+C:\Kod\Rozdzial01\obj\Debug\netcoreapp2.1\Rozdzial01.pdb
